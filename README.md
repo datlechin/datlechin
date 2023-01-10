@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Dat Ngo Quoc
 
-I'm a Laravel developer.
+I'm a fullstack Laravel developer, working on the TALL stack,
 
 ## 🌐Socials
 
@@ -9,10 +9,10 @@ I'm a Laravel developer.
 
 
 ## Github Contributes
-![](https://github-readme-stats.vercel.app/api?username=datlechin&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=datlechin&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ## My Favorite Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datlechin&theme=onedark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datlechin&layout=compact)
 
 ---
 ![](https://komarev.com/ghpvc/?username=datlechin&label=Visitors+Count&color=brightgreen)
