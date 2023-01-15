@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Dat Ngo Quoc
 
-I'm a fullstack Laravel developer, working on the TALL stack.
+I'm a Laravel developer, working on TailwindCSS, Livewire, InertiaJS, Vue.js
 
 ## 🌐Socials
 
