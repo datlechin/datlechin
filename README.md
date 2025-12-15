@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Dat Ngo Quoc
+# 👋 Hi, I'm Ngo Quoc Dat
 
-I'm a Laravel developer.
+I'm a Software Developer.
 
 ## Frameworks & Tools working on
 
