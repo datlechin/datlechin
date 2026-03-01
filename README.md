@@ -2,15 +2,15 @@
 
 Software Developer at [SePay](https://sepay.vn) from Ho Chi Minh, Vietnam.
 
-I build open-source tools and extensions — mostly around PHP ecosystems (Filament, Flarum, Laravel) and native macOS apps with Swift.
+I build open-source tools and extensions, mostly around PHP ecosystems (Filament, Flarum, Laravel) and native macOS apps with Swift.
 
 ## Featured Projects
 
-- **[TablePro](https://github.com/datlechin/TablePro)** — A fast, lightweight native macOS database client. Alternative to TablePlus. `Swift` `SwiftUI` `AppKit`
-- **[filament-menu-builder](https://github.com/datlechin/filament-menu-builder)** — Create and manage menus in your Filament app. `PHP` `Filament`
-- **[flarum-ai](https://github.com/datlechin/flarum-ai)** — Drop-in AI integration for Flarum with OpenAI, Anthropic, Gemini support. `PHP` `TypeScript`
-- **[flarum-link-preview](https://github.com/datlechin/flarum-link-preview)** — Rich link previews for Flarum discussions. `TypeScript`
-- **[bitbucket-cli](https://github.com/datlechin/bitbucket-cli)** — A CLI for Bitbucket Cloud, built for developers and AI agents. `Rust`
+- **[TablePro](https://github.com/datlechin/TablePro)** - A fast, lightweight native macOS database client. Alternative to TablePlus. `Swift` `SwiftUI` `AppKit`
+- **[filament-menu-builder](https://github.com/datlechin/filament-menu-builder)** - Create and manage menus in your Filament app. `PHP` `Filament`
+- **[flarum-ai](https://github.com/datlechin/flarum-ai)** - Drop-in AI integration for Flarum with OpenAI, Anthropic, Gemini support. `PHP` `TypeScript`
+- **[flarum-link-preview](https://github.com/datlechin/flarum-link-preview)** - Rich link previews for Flarum discussions. `TypeScript`
+- **[bitbucket-cli](https://github.com/datlechin/bitbucket-cli)** - A CLI for Bitbucket Cloud, built for developers and AI agents. `Rust`
 
 ## Tech Stack
 
