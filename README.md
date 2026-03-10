@@ -1,6 +1,6 @@
 # Hi, I'm Dat 👋
 
-Software Developer at [SePay](https://sepay.vn) from Ho Chi Minh, Vietnam.
+Software Developer from Ho Chi Minh, Vietnam.
 
 I build open-source tools and extensions, mostly around PHP ecosystems (Filament, Flarum, Laravel) and native macOS apps with Swift.
 
